@@ -1,0 +1,14 @@
+/* set navbar admin*/
+.w3-bar,.w3-light-grey,.w3-container,.w3-dark-grey{
+	padding: 0px 64px!important;
+}
+.mysidebar{
+	padding: 37px 16px!important;
+	height: 622px!important;
+}
+section.mysidebar{
+	max-height: 642px!important;
+	overflow: hidden;
+	overflow-y: auto!important;
+	padding-top: 74px!important;
+}
